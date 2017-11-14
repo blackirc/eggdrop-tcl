@@ -3,7 +3,7 @@
 # Activate it by .chanset #YourChannel +killchan
 #
 # Every user that can issue a !kill , shoud have +G local and global flash set.
-# ( .chattr user +G / .chanset user +G #YourChannel )
+# ( .chattr user +G / .chattr user +G #YourChannel )
 
 
 setudef flag killchan
