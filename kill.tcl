@@ -2,7 +2,7 @@
 #
 # Activate it by .chanset #YourChannel +killchan
 #
-# Every user that can issue a !kill , shoud have +G local and global flash set.
+# Every user that can issue a !kill , shoud have +G local and global flag set.
 # ( .chattr user +G / .chattr user +G #YourChannel )
 
 
