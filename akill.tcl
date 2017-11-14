@@ -2,7 +2,7 @@
 #
 # Activate it by .chanset #YourChannel +akillchan
 #
-# Every user that can issue a !akill , shoud have +G local and global flash set.
+# Every user that can issue a !akill , shoud have +G local and global flag set.
 # ( .chattr user +G / .chattr user +G #YourChannel )
 
 setudef flag akillchan
